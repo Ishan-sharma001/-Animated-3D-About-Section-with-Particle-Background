@@ -17,7 +17,7 @@ This project is a visually stunning **About Section** built using **HTML**, **CS
 
 ## 📸 Preview
 
-<img src="./screenshot.png" width="600" alt="Preview" />
+<img src="./Screenshot%202025-04-05%20230518.png" width="600" alt="Preview" />
 
 
 ---
