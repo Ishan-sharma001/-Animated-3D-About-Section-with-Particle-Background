@@ -17,7 +17,8 @@ This project is a visually stunning **About Section** built using **HTML**, **CS
 
 ## 📸 Preview
 
-![screenshot](./screenshot.png) <!-- Add a screenshot image if you have one -->
+<img src="./screenshot.png" width="600" alt="Preview" />
+
 
 ---
 
